@@ -1,4 +1,4 @@
-/*var imag = document.querySelector('img');
+var imag = document.querySelector('img');
 
 imag.onclick = function() {
 	var mysrc = imag.getAttribute('src');
@@ -12,7 +12,7 @@ imag.onclick = function() {
 	} else {
 		imag.setAttribute('src', 'images/image.jpg');
 	}
-}*/
+}
 
 var myButton = document.querySelector('button');
 var myHeading = document.querySelector('h1');
